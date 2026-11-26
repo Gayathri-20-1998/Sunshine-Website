@@ -1,16 +1,69 @@
-# React + Vite
+# Sunshine Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive guesthouse website designed to showcase room details, provide a booking interface, and display property videos.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Sunshine Website is a web application that helps visitors explore guesthouse information and view available room details through a user-friendly interface.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive website design
+- Room details and information
+- Booking interface
+- Video gallery
+- Interactive user interface
 
-## Expanding the Oxlint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+## Project Structure
+
+```text
+Sunshine-Website/
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
+```
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Gayathri-20-1998/Sunshine-Website.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Sunshine-Website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Repository
+
+[GitHub - Sunshine Website](https://github.com/Gayathri-20-1998/Sunshine-Website)
+
+---
+
+Developed as a web development project.
