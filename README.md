@@ -67,3 +67,6 @@ npm run dev
 ---
 
 Developed as a web development project.
+## Live Demo
+
+Visit the live website: https://sunshine-website-new.vercel.app
